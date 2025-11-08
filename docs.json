@@ -3,9 +3,9 @@
     "theme": "almond",
     "name": "Reliq Finance",
     "colors": {
-        "primary": "#fcba03",
-        "light": "#5effd8",
-        "dark": "#5effd8"
+        "primary": "#52debb",
+        "light": "#52debb",
+        "dark": "#52debb"
     },
     "favicon": "/favicon.svg",
     "navigation": {
